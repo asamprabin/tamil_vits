@@ -78,8 +78,8 @@
     "add_blank": true,
     "datasets": [
         {
-            "name": "tamil_speaker",
-            "path": "datasets/tamil_speaker",
+            "name": "speaker_data",
+            "path": "datasets",
             "meta_file_train": "metadata.csv",
             "meta_file_val": "metadata_val.csv",
             "formatter": "ljspeech"
@@ -94,8 +94,10 @@
         "eps": 1e-09,
         "weight_decay": 0.01
     },
-    "lr_scheduler": "",
-    "lr_scheduler_params": {},
+    "lr_scheduler": "ExponentialLR",
+    "lr_scheduler_params": {
+      "gamma": 0.9995
+    },
     "test_sentences": [
         "வணக்கம்.",
         "தமிழ் ஒரு அழகான மொழி.",
