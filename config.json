@@ -78,8 +78,8 @@
     "add_blank": true,
     "datasets": [
         {
-            "name": "tamil_speaker",
-            "path": "datasets/tamil_speaker",
+            "name": "speaker_data",
+            "path": "datasets",
             "meta_file_train": "metadata.csv",
             "meta_file_val": "metadata_val.csv",
             "formatter": "ljspeech"
