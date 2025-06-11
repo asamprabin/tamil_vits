@@ -1,0 +1,84 @@
+List of non-verbal vocal expressions: (Speech Synthesis Markup Language) SSML
+
+😄 Positive Emotions & Reactions
+(laughs)
+
+(chuckles)
+
+(giggles)
+
+(snickers)
+
+(smiles)
+
+(cheers)
+
+(applause)
+
+(claps)
+
+(whistles)
+
+😔 Negative Emotions & Discomfort
+(sighs)
+
+(groans)
+
+(moans)
+
+(cries)
+
+(sniffs)
+
+(sobs)
+
+(gasps)
+
+(grunts)
+
+😷 Physical/Health Sounds
+(coughs)
+
+(sneezes)
+
+(sniffs)
+
+(clears throat)
+
+(wheezes)
+
+(hiccups)
+
+(burps)
+
+(yawns)
+
+🎤 Vocal Activities
+(singing)
+
+(sings)
+
+(humming)
+
+(mumbles)
+
+(mutters)
+
+(shouts)
+
+(screams)
+
+(whispers)
+
+(chants)
+
+(beep) (for censor or SFX)
+
+🌬️ Breath & Involuntary Sounds
+(inhales)
+
+(exhales)
+
+(breathes heavily)
+
+(panting)
